@@ -1,4 +1,4 @@
 # locos-icewm-config
-LocOS IceWM config files and themes
+LocOS IceWM config files
 
-put this files on ~/.icewm or /usr/share/icewm
+put this files on ```~/.icewm``` or ```/usr/share/icewm```
