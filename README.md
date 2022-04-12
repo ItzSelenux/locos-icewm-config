@@ -1,4 +1,4 @@
 # locos-icewm-config
 LocOS IceWM config files and themes
 
-put this files on ~/.icewm or /usr/share/icewm
+put this file on ~/.local/share/rofi/themes /usr/share/rofi/themes
