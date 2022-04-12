@@ -6,7 +6,6 @@
 prog Archivos nemo spacefm
 prog Midori midori midori
 prog Terminal utilities-terminal sakura
-prog Xed accessories-text-editor xed
 
 includeprog icewm-menu-fdo --sep-before --no-sep-others
 menufile Programs folder programs
