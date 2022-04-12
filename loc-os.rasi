@@ -1,7 +1,7 @@
 
 
 /* Layout by J O N A T H A N  P. https://github.com/IamJony */
-/* theme by ItzSelenux based on Mint-Y https://github.com/ItzSelenux */
+/* Rofi Theme for Loc-OS by ItzSelenux https://github.com/ItzSelenux */
 
 configuration {
     show-icons:                     true;
